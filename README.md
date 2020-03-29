@@ -13,4 +13,5 @@ Este repositório contém informações sobre a impressão do modelo 3D do face 
 * [planilha de gerenciamento da produção](https://docs.google.com/spreadsheets/d/1ngtxewBnuMOaN85QsyF6dQlnRIhlqPvghXnWPUqNe_0/edit?usp=sharing) - registrar na planilha a previsão de produção para os próximos 7 dias, e a produção efetivamente realizada.
 
 Atenciosamente,
+
 Grupo Front-UFF.
