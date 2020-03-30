@@ -1,4 +1,4 @@
-# Front-UFF - Projeto Impressão 3D
+# Frente-UFF - Projeto Impressão 3D
 Este repositório contém informações sobre a impressão do modelo 3D do face shield para proteção dos profissionais da rede pública de saúde.
 
 ## O processo
@@ -15,4 +15,4 @@ Este repositório contém informações sobre a impressão do modelo 3D do face 
 
 Atenciosamente,
 
-Grupo Front-UFF.
+Grupo Frente-UFF.
