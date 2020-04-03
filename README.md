@@ -14,7 +14,7 @@ Este repositório contém informações sobre a impressão do modelo 3D do face 
 * [planilha da produção](https://docs.google.com/spreadsheets/d/1ngtxewBnuMOaN85QsyF6dQlnRIhlqPvghXnWPUqNe_0/edit?usp=sharing) - registrar na planilha a previsão de produção para os próximos 7 dias, e a produção efetivamente realizada. Preencher só depois da validação da primeira peça na Engenharia.
 
 ## Licença e Uso
-* [arquivo STL] Todos os arquivos aqui disponibilizados estão licenciados para distribuição e uso por licença não comercial. A reprodução e modificação das partes componentes do projeto é livre, mas é vedada a comercialização de qualquer uma das partes, sendo destinada especificamente para doações.
+* Todos os arquivos aqui disponibilizados estão licenciados para distribuição e uso por licença não comercial. A reprodução e modificação das partes componentes do projeto é livre, mas é vedada a comercialização de qualquer uma das partes, sendo destinada especificamente para doações.
 
 Atenciosamente,
 
