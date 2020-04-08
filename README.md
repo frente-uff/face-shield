@@ -9,7 +9,6 @@ Este repositório contém informações sobre a impressão do modelo 3D do face 
 
 ## Links
 * [form de cadastro](https://docs.google.com/forms/d/e/1FAIpQLSdFPDlcjhsMMDoAWQcDvu4kVBwjNyHbU-FldtyZqjQOhJpadg/viewform?usp=sf_link) - o formulário esta subdividido em 03 Seções. Seção 1-cadastro geral, Seção 2-cadastro dos voluntários que irão imprimir peças, Seção 3-cadastro dos voluntários que gostariam de ajudar em alguma atividade presencial na Engenharia.
-* [form de solicitação de serviço](https://docs.google.com/forms/d/e/1FAIpQLScmVSwgP-cyMY1-ULJx2Oggd1KwDETfZByNtsV6e-jH_dta5w/viewform?usp=sf_link) - solicitação de serviços de transporte e suprimentos.
 * [grupo de discussão](https://join.slack.com/t/cadvolcovid19/shared_invite/zt-d35cnbhg-vmubkFQcgEvXtvMY2LNB~Q) - troca de informações e arquivos no slack.
 * [planilha da produção](https://docs.google.com/spreadsheets/d/1ngtxewBnuMOaN85QsyF6dQlnRIhlqPvghXnWPUqNe_0/edit?usp=sharing) - registrar na planilha a previsão de produção para os próximos 7 dias, e a produção efetivamente realizada. Preencher só depois da validação da primeira peça na Engenharia.
 
